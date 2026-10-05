@@ -1,8 +1,6 @@
 # Power-BI-SQL-NorthWind-sales-analytics
 A dashboard built using sales and logistics data from a fictional company (NorthWind), made available by Microsoft for relational database and management system tutorials.
 
-This dashboard was built using the Northwind dataset and focuses on the logistics and sales performance of a retail business.
-
 What it tracks:
 
 - Monthly sales KPIs — total revenue, total quantity sold, number of orders, and average order value, each with a Month-over-Month comparison to highlight trends
